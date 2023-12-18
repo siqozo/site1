@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+html,body{
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+.main{
+  min-height: 100%;
+}
+
+
+.nav-item{
+  font-size: 20px;
+  padding: 0 10px;
+
+}
+.btn {
+font-size: 20px;
+padding: 0 50px;
+margin-top: 9px;
+background-color: #111B47;
+border: 3px solid #111B47;
+
+
+}
+h1{
+  font-weight:bold;
+  color:#283FA7;
+  
+}
+.navbar-toggler{
+  font-size: 20px;
+  padding: 0 20px;
+
+}
+.section-spacing {
+  
+}
+p {
+  margin-top: -15px; /* Отступ сверху */
+   margin-bottom: 15px;
+  
+ }
+ .content{
+  margin-top: 150px;
+  font-size: 20px;
+  background-image: url(img/designer_1\ \(7\).png);
+ }
+ h2{
+  font-size: 50px;
+ }
+ #btn2{
+  background-color:transparent;
+  border-radius:5px;
+  color: black;
+  border: 3px solid #111B47;
+  padding: 0px 53px;
+  font-size: 25px;
+  margin-left: 0px;
+
+ }
+ #btn1{
+  border: 3px solid #111B47;
+  font-size: 24.5px;
+  margin-left: 0px;
+ }
+
+ 
+
+.kruglick{
+  background-color: blue;
+  margin-top:80px;
+  border-radius: 10px;
+}
+
+
+ 

@@ -1,0 +1,314 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+html,body{
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+.main{
+  min-height: 100%;
+}
+
+
+.nav-item{
+  font-size: 20px;
+  padding: 0 10px;
+
+}
+.btn {
+font-size: 20px;
+padding: 0 50px;
+margin-top: 9px;
+background-color: #111B47;
+border: 3px solid #111B47;
+
+
+}
+h1{
+  font-weight:bold;
+  color:#283FA7;
+  
+}
+.navbar-toggler{
+  font-size: 20px;
+  padding: 0 20px;
+
+}
+.section-spacing {
+  
+}
+p {
+  margin-top: -15px; /* Отступ сверху */
+   margin-bottom: 15px;
+  
+ }
+ .content{
+  margin-top: 150px;
+  font-size: 20px;
+  background-image: url(img/designer_1\ \(7\).png);
+ }
+ h2{
+  font-size: 50px;
+ }
+ #btn2{
+  background-color:transparent;
+  border-radius:5px;
+  color: black;
+  border: 3px solid #111B47;
+  padding: 0px 53px;
+  font-size: 25px;
+  margin-left: 0px;
+
+ }
+ #btn1{
+  border: 3px solid #111B47;
+  font-size: 24.5px;
+  margin-left: 0px;
+ }
+
+ .about{
+  margin-top: 50px;
+}
+.about2{
+  margin-top: 120px;
+}
+#img2{
+margin-top: -180px;
+}
+.about3{
+  margin-top: 120px;
+}
+
+#img3{
+  margin-top: -180px;
+  }
+
+  .about4{
+    margin-top: 120px;
+  }
+  
+  #img4{
+   margin-top: -150px;
+    }
+    .color-red{
+      color: #6F7CB2;
+    }
+    .color{
+      color: #6F7CB2;
+    }
+
+    #startovoe{
+      color:#091133;
+      font-weight:none;
+    }
+    #Lore{
+      color: #6F7CB2;
+    }
+    .Price{
+      margin-top:0px;
+     
+      padding: 150px 0px;
+      background-size: 100%;
+    }
+    
+    #bucks{
+      padding: 40px 0px;
+    }
+    .buck23{
+      font-size: 60px;
+      color:#091133;
+    }
+    #egoista{
+      padding: 5px 50px;
+      border: 3px solid #111B47;
+      font-size: 18px;
+    }
+    #Purchase{
+      padding: 5px 40px;
+      border: 3px solid #111B47;
+    }
+    #footup{
+      padding: 50px 0px;
+    }
+    #menu2{
+      padding: 0px 250px;
+    }
+    #footer{
+      background-color: #C1CEFF;
+      display: flex ;
+    }
+    .container-fluid{
+      background-color: #E7ECFF;
+      background-size: 100%;
+    }
+  #copyright{
+    font-size: 18px;
+    padding: 5px;
+    
+    
+    color: #6F7CB2;
+  }
+  #ftbtn{
+    padding: 3px 40px;
+    border: 3px solid #111B47;
+    margin-top: -2px;
+   
+  }
+
+  .phone{
+    margin-top: 150px;
+  }
+  .color2{
+    color:  #6F7CB2;;
+    font-size: 16px;
+  }
+  #img_peoples{
+    margin-top: 80px;
+  }
+  .color_peoples{
+    color:  #6F7CB2;
+    font-size: 17px;
+  }
+
+  #text_peoples{
+  margin-top: 250px;
+  padding: 0px 50px;
+  }
+  .about_peoples{
+    margin-top: -100px;
+  }
+  .color23{
+    color:  #6F7CB2;;
+    font-size: 14px;
+  }
+  #nav-footer a{
+    font-size: 18px;
+    color:  #6F7CB2;
+    padding: 0px 24px;
+  }
+  #nav-footer2 a{
+    font-size: 18px;
+  
+  }
+
+  #content_footera{
+    padding: 10px;
+    margin-top: 20px;
+  }
+ #main-list{
+  margin-top: 300px;
+ }
+
+ #img555{
+  
+ }
+ .about555{
+margin-top: 0px;
+ }
+
+
+ #img555{
+  
+ }
+ .kolon2{
+  margin-left: 500px;
+ }
+ .navbar-light .navbar-toggler {
+  color: #091133;
+  border: #283FA7;
+ }
+#h1footer{
+  font-size:30px ;
+}
+
+#textovoi{
+ margin-top: 90px;
+}
+
+#textovoi2{
+  margin-top: -70px;
+}
+#textovoi3{
+  margin-top: -70px;
+}
+#textovoi4{
+  margin-top: -70px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  #textovoi2{
+    margin-top: -100px;
+  }
+  #textovoi3{
+    margin-top: -100px;
+  }
+
+  #textovoi4{
+    margin-top: -100px;
+  }
+  #textovoi2_1{
+    margin-top: -20px;
+  }
+
+  #phone1_1{
+    margin-top: -50px;
+  }
+  #about2_2{
+    margin-top: -180px;
+  }
+  .content_no{
+       margin-top: -100px;
+  }
+  
+}
+
+
+@media only screen and (min-width: 1200px) {
+  #about2{
+   margin-top: 200px;
+  }
+
+  #about3{
+    margin-top: 200px;
+  }
+
+  #about4{
+    margin-top: 200px;
+  }
+
+  #about5{
+    margin-top: 100px;
+  }
+
+  #btn2{
+    margin-left: -60px;
+  }
+  .content_no{
+    margin-top: 99px;
+}
+}
+
+@media (max-width: 1400px) {
+  #btn2{
+    background-color:transparent;
+    border-radius:5px;
+    color: black;
+    border: 3px solid #111B47;
+    padding: 5px 76px;
+    font-size: 20px;
+    margin-left: 0px;
+    white-space: nowrap;
+    
+  
+   }
+   #btn1{
+    border: 3px solid #111B47;
+    font-size: 19px;
+    margin-left: 0px;
+    padding: 5px 76px;
+    white-space: nowrap;
+   }
+  
+}
